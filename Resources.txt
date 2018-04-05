@@ -4,5 +4,10 @@ xml version="1.0"?>
       <Dept>WOFCO</Dept>
       <Name>Priyanka</Name>
       <Tech>Distributed</Tech>
-   </Resource>      
+   </Resource>     
+   <Resource>
+      <Dept>SET</Dept>
+      <Name>Babu</Name>
+      <Tech>Distributed</Tech>
+   </Resource>  
 </DXC>
